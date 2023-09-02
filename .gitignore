@@ -1,0 +1,9 @@
+__pycache__
+venv
+*.log
+*.pyc
+.dccache
+/credentials
+/.vscode
+.vscode/settings.json
+tmp
